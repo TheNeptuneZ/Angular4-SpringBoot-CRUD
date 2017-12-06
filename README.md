@@ -5,3 +5,5 @@ This is a mini project to understand how we can create a web application using A
 ## the project is divided on 2 parts
 - Angular4 Project
 - SpringBoot Project
+
+Please notify me if you find bugs.
